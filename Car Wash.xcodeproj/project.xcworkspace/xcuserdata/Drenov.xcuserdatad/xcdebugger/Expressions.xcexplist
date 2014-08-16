@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[CWObserver observers]:CWObserver.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[CWCarWashingRoom serveCar:]:CWCarWashingRoom.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[CWRoom setIsAvailable:]:CWRoom.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[CWAccountant countMoneyOf:]:CWAccountant.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[CWObserver notifyObserversWithSelector:]:CWObserver.m">
+      </ContextState>
+      <ContextState
+         contextName = "main:main.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[CWCarWashingRoom workAccomplishedByWorker:]:CWCarWashingRoom.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[CWCar workAccomplishedByWorker:]:CWCar.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[CWWorkerAdministrator addWorkerToQueue:]:CWWorkerAdministrator.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[CWWorkerAdministrator removeWorkerFromQueue:]:CWWorkerAdministrator.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[CWWasher washCar:]:CWWasher.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[CWMainCarWash designateObservers]:CWMainCarWash.m">
+      </ContextState>
+      <ContextState
+         contextName = "__29-[CWAccountant countMoneyOf:]_block_invoke:CWAccountant.m">
+      </ContextState>
+      <ContextState
+         contextName = "_dispatch_mgr_thread:(null)">
+         <PersistentStrings>
+            <PersistentString
+               value = "">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CWWorkerAdministrator processQueue]:CWWorkerAdministrator.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
